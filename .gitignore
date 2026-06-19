@@ -1,0 +1,6 @@
+/target
+.env
+/seen_events.json
+/matrix_store.sqlite
+/matrix_session.json
+/result
